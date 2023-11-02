@@ -19,7 +19,7 @@ print(f"El resultado de la division (int) es: {division}")#nos va a devolver com
 
 modulo = operandoA % operandoB
 print(f"El resultado del residuo de la division es: {modulo}")
-
+    
 exponente = operandoA ** operandoB
 print(f"El resultado del exponente es: {exponente}")
 
